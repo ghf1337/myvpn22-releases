@@ -10,18 +10,18 @@
       "subtitle": "VPN только для подписки MyVPN22",
       "localizedDescription": "Подключение к серверам MyVPN22: вход через Telegram или email, выбор страны, поддержка.",
       "iconURL": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/icon.png",
-      "version": "0.6.3",
+      "version": "0.6.4",
       "versionDate": "2026-10-12",
-      "versionDescription": "Экран установки обновления; проверка обновлений при каждом запуске",
-      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.3/MyVPN22-0.6.3.ipa",
-      "size": 15615318,
+      "versionDescription": "Проверка экрана установки обновления",
+      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.4/MyVPN22-0.6.4.ipa",
+      "size": 15615326,
       "versions": [
         {
-          "version": "0.6.3",
+          "version": "0.6.4",
           "date": "2026-10-12",
-          "localizedDescription": "Экран установки обновления; проверка обновлений при каждом запуске",
-          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.3/MyVPN22-0.6.3.ipa",
-          "size": 15615318
+          "localizedDescription": "Проверка экрана установки обновления",
+          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.4/MyVPN22-0.6.4.ipa",
+          "size": 15615326
         }
       ]
     }

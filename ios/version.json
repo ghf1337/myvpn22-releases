@@ -1,8 +1,8 @@
 {
-  "version": "0.6.3",
-  "notes": "Экран установки обновления; проверка обновлений при каждом запуске",
-  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.3/MyVPN22-0.6.3.ipa",
-  "size": 15615318,
-  "sha256": "dd4fbed54672c91afd08cc9bc6edbc87eb5acf8458de8926bef3998391217a73",
-  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.6.3.plist"
+  "version": "0.6.4",
+  "notes": "Проверка экрана установки обновления",
+  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.4/MyVPN22-0.6.4.ipa",
+  "size": 15615326,
+  "sha256": "02758b2b227fc66f332478c1d2990f912332fc93a2c1192d56d2fb46e2a60e7d",
+  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.6.4.plist"
 }
