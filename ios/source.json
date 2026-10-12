@@ -1,0 +1,29 @@
+{
+  "name": "MyVPN22",
+  "identifier": "top.myvpn22.source",
+  "iconURL": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/icon.png",
+  "apps": [
+    {
+      "name": "MyVPN22",
+      "bundleIdentifier": "app.xigua7648.gray5696",
+      "developerName": "MyVPN22",
+      "subtitle": "VPN только для подписки MyVPN22",
+      "localizedDescription": "Подключение к серверам MyVPN22: вход через Telegram или email, выбор страны, поддержка.",
+      "iconURL": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/icon.png",
+      "version": "0.5.0",
+      "versionDate": "2026-10-12",
+      "versionDescription": "Дизайн как на Android, аккаунт, поддержка, смена сети без обрыва, обновления через Feather",
+      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.5.0/MyVPN22-0.5.0.ipa",
+      "size": 14409108,
+      "versions": [
+        {
+          "version": "0.5.0",
+          "date": "2026-10-12",
+          "localizedDescription": "Дизайн как на Android, аккаунт, поддержка, смена сети без обрыва, обновления через Feather",
+          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.5.0/MyVPN22-0.5.0.ipa",
+          "size": 14409108
+        }
+      ]
+    }
+  ]
+}
