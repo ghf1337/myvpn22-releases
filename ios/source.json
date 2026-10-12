@@ -10,18 +10,18 @@
       "subtitle": "VPN только для подписки MyVPN22",
       "localizedDescription": "Подключение к серверам MyVPN22: вход через Telegram или email, выбор страны, поддержка.",
       "iconURL": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/icon.png",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "versionDate": "2026-10-12",
-      "versionDescription": "Живой хаски, Live Activity и Dynamic Island с таймером, виджет на рабочий стол, кнопка питания «наполняется», главная под высоту экрана",
-      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.0/MyVPN22-0.6.0.ipa",
-      "size": 15604727,
+      "versionDescription": "Обновления в одно нажатие: iOS сама предложит установить новую версию",
+      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.1/MyVPN22-0.6.1.ipa",
+      "size": 15605776,
       "versions": [
         {
-          "version": "0.6.0",
+          "version": "0.6.1",
           "date": "2026-10-12",
-          "localizedDescription": "Живой хаски, Live Activity и Dynamic Island с таймером, виджет на рабочий стол, кнопка питания «наполняется», главная под высоту экрана",
-          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.0/MyVPN22-0.6.0.ipa",
-          "size": 15604727
+          "localizedDescription": "Обновления в одно нажатие: iOS сама предложит установить новую версию",
+          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.1/MyVPN22-0.6.1.ipa",
+          "size": 15605776
         }
       ]
     }

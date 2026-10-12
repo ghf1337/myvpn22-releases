@@ -1,7 +1,8 @@
 {
-  "version": "0.6.0",
-  "notes": "Живой хаски, Live Activity и Dynamic Island с таймером, виджет на рабочий стол, кнопка питания «наполняется», главная под высоту экрана",
-  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.0/MyVPN22-0.6.0.ipa",
-  "size": 15604727,
-  "sha256": "90ca18f6bbf3d2d09c83ba038a408be4d8d83fe4dcde20e7380d18cdf8fc173c"
+  "version": "0.6.1",
+  "notes": "Обновления в одно нажатие: iOS сама предложит установить новую версию",
+  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.1/MyVPN22-0.6.1.ipa",
+  "size": 15605776,
+  "sha256": "d5f420a36961b11998ecd597ec5bd0868999cd7773e82e08e77e6b07b6a55a3e",
+  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest.plist"
 }
