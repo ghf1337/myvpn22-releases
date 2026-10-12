@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
-  "notes": "Новый интерфейс: живой фон, кнопка-сфера с анимацией подключения, вкладка «Локации», обновлённые аккаунт и настройки",
-  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.0/MyVPN22-0.7.0.ipa",
-  "size": 15689900,
-  "sha256": "b378011f81fe76d7ba0b30c17710baebf733e6d660dbbca3556d0e0625eb1247",
-  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.0.plist"
+  "version": "0.7.1",
+  "notes": "Тариф, срок и трафик — теперь в кольце вверху главной; исправлены мелочи оформления",
+  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.1/MyVPN22-0.7.1.ipa",
+  "size": 15691956,
+  "sha256": "c73e6913691e05a74c272d8a241719579c184dfc4edf2976e7e8b74d5762d60e",
+  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.1.plist"
 }
