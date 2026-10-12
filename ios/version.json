@@ -1,8 +1,8 @@
 {
-  "version": "0.6.5",
-  "notes": "Быстрое восстановление связи при смене Wi-Fi ↔ LTE",
-  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.5/MyVPN22-0.6.5.ipa",
-  "size": 15619834,
-  "sha256": "7b9dc68a76391748225ae234a7d61c354a2f24e99db4505d372e883b4a5a83ad",
-  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.6.5.plist"
+  "version": "0.7.0",
+  "notes": "Новый интерфейс: живой фон, кнопка-сфера с анимацией подключения, вкладка «Локации», обновлённые аккаунт и настройки",
+  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.0/MyVPN22-0.7.0.ipa",
+  "size": 15689900,
+  "sha256": "b378011f81fe76d7ba0b30c17710baebf733e6d660dbbca3556d0e0625eb1247",
+  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.0.plist"
 }
