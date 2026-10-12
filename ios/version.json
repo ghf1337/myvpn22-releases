@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "notes": "Дизайн как на Android, аккаунт, поддержка, смена сети без обрыва, обновления через Feather",
-  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.5.0/MyVPN22-0.5.0.ipa",
-  "size": 14409108,
-  "sha256": "6bcbcf55b0638243417866482ef4e1e482abe87db41a980091da26d45a0d8f89"
+  "version": "0.6.0",
+  "notes": "Живой хаски, Live Activity и Dynamic Island с таймером, виджет на рабочий стол, кнопка питания «наполняется», главная под высоту экрана",
+  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.6.0/MyVPN22-0.6.0.ipa",
+  "size": 15604727,
+  "sha256": "90ca18f6bbf3d2d09c83ba038a408be4d8d83fe4dcde20e7380d18cdf8fc173c"
 }
