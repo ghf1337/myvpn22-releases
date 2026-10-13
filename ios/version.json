@@ -1,8 +1,8 @@
 {
-  "version": "0.7.2",
-  "notes": "Список серверов и другие экраны теперь долистываются до конца — ничего не прячется под панелью вкладок",
-  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.2/MyVPN22-0.7.2.ipa",
-  "size": 15691598,
-  "sha256": "b4e85bf13ff67a869567686473b63fb98e9fa2947057d0728ce1a1ff5d5553c0",
-  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.2.plist"
+  "version": "0.7.3",
+  "notes": "Карточки стали чётче — фон за ними больше не просвечивает; сборку можно переподписать в Feather любым личным сертификатом",
+  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.3/MyVPN22-0.7.3.ipa",
+  "size": 15703544,
+  "sha256": "fb608e85ac5fdddbb8fcbbfe4efd330160bd3cb3bcf857f4b14761269d8e3fb2",
+  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.3.plist"
 }
