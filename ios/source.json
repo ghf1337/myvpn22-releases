@@ -10,18 +10,18 @@
       "subtitle": "VPN только для подписки MyVPN22",
       "localizedDescription": "Подключение к серверам MyVPN22: вход через Telegram или email, выбор страны, поддержка.",
       "iconURL": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/icon.png",
-      "version": "0.7.6",
+      "version": "0.7.7",
       "versionDate": "2026-10-26",
-      "versionDescription": "Диагностика обрывов VPN: журнал туннеля сохраняется между подключениями, видно выгрузку туннеля системой и запас памяти. После сна телефона связь проверяется и ядро перезапускается, если соединение умерло. Кнопка «Скопировать журнал» в настройках.",
-      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.6/MyVPN22-0.7.6.ipa",
-      "size": 15715932,
+      "versionDescription": "Исправлен случайный выход из аккаунта: параллельные запросы больше не сбрасывают сессию при обновлении токена.",
+      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.7/MyVPN22-0.7.7.ipa",
+      "size": 15718152,
       "versions": [
         {
-          "version": "0.7.6",
+          "version": "0.7.7",
           "date": "2026-10-26",
-          "localizedDescription": "Диагностика обрывов VPN: журнал туннеля сохраняется между подключениями, видно выгрузку туннеля системой и запас памяти. После сна телефона связь проверяется и ядро перезапускается, если соединение умерло. Кнопка «Скопировать журнал» в настройках.",
-          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.6/MyVPN22-0.7.6.ipa",
-          "size": 15715932
+          "localizedDescription": "Исправлен случайный выход из аккаунта: параллельные запросы больше не сбрасывают сессию при обновлении токена.",
+          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.7/MyVPN22-0.7.7.ipa",
+          "size": 15718152
         }
       ]
     }

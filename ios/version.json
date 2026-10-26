@@ -1,8 +1,8 @@
 {
-  "version": "0.7.6",
-  "notes": "Диагностика обрывов VPN: журнал туннеля сохраняется между подключениями, видно выгрузку туннеля системой и запас памяти. После сна телефона связь проверяется и ядро перезапускается, если соединение умерло. Кнопка «Скопировать журнал» в настройках.",
-  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.6/MyVPN22-0.7.6.ipa",
-  "size": 15715932,
-  "sha256": "882c8b4f591ac5c68f33c19a688befed84da0781a8275fe13a2a5b139cd81b46",
-  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.6.plist"
+  "version": "0.7.7",
+  "notes": "Исправлен случайный выход из аккаунта: параллельные запросы больше не сбрасывают сессию при обновлении токена.",
+  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.7/MyVPN22-0.7.7.ipa",
+  "size": 15718152,
+  "sha256": "9e9795eeb645ff82c618c8aa19ee88c3fd2f2bd10bfa66b2211565f41af4de6d",
+  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.7.plist"
 }
