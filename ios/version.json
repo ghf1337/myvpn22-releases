@@ -1,8 +1,8 @@
 {
-  "version": "0.7.4",
-  "notes": "Меньше расход батареи: анимации до 30 кадров/с и только на виду, в режиме энергосбережения — без эффектов; скорость, пинги и обновления опрашиваются только на открытом экране",
-  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.4/MyVPN22-0.7.4.ipa",
-  "size": 15711068,
-  "sha256": "652b3c80d60275b45475a383c237358389b5c5c34b9d2ff66aa6cbc7957d421e",
-  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.4.plist"
+  "version": "0.7.5",
+  "notes": "Меньше расход батареи с включённым VPN: ядро больше не чистит память каждую секунду",
+  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.5/MyVPN22-0.7.5.ipa",
+  "size": 15710862,
+  "sha256": "796b00ac118267cda71e7cceb746d3e64c6f11d3b7a70f2d2e4dbb12324b14c4",
+  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.5.plist"
 }

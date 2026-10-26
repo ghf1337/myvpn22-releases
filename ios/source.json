@@ -10,18 +10,18 @@
       "subtitle": "VPN только для подписки MyVPN22",
       "localizedDescription": "Подключение к серверам MyVPN22: вход через Telegram или email, выбор страны, поддержка.",
       "iconURL": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/icon.png",
-      "version": "0.7.4",
+      "version": "0.7.5",
       "versionDate": "2026-10-26",
-      "versionDescription": "Меньше расход батареи: анимации до 30 кадров/с и только на виду, в режиме энергосбережения — без эффектов; скорость, пинги и обновления опрашиваются только на открытом экране",
-      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.4/MyVPN22-0.7.4.ipa",
-      "size": 15711068,
+      "versionDescription": "Меньше расход батареи с включённым VPN: ядро больше не чистит память каждую секунду",
+      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.5/MyVPN22-0.7.5.ipa",
+      "size": 15710862,
       "versions": [
         {
-          "version": "0.7.4",
+          "version": "0.7.5",
           "date": "2026-10-26",
-          "localizedDescription": "Меньше расход батареи: анимации до 30 кадров/с и только на виду, в режиме энергосбережения — без эффектов; скорость, пинги и обновления опрашиваются только на открытом экране",
-          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.4/MyVPN22-0.7.4.ipa",
-          "size": 15711068
+          "localizedDescription": "Меньше расход батареи с включённым VPN: ядро больше не чистит память каждую секунду",
+          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.5/MyVPN22-0.7.5.ipa",
+          "size": 15710862
         }
       ]
     }
