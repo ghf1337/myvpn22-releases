@@ -1,8 +1,8 @@
 {
-  "version": "0.7.5",
-  "notes": "Меньше расход батареи с включённым VPN: ядро больше не чистит память каждую секунду",
-  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.5/MyVPN22-0.7.5.ipa",
-  "size": 15710862,
-  "sha256": "796b00ac118267cda71e7cceb746d3e64c6f11d3b7a70f2d2e4dbb12324b14c4",
-  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.5.plist"
+  "version": "0.7.6",
+  "notes": "Диагностика обрывов VPN: журнал туннеля сохраняется между подключениями, видно выгрузку туннеля системой и запас памяти. После сна телефона связь проверяется и ядро перезапускается, если соединение умерло. Кнопка «Скопировать журнал» в настройках.",
+  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.6/MyVPN22-0.7.6.ipa",
+  "size": 15715932,
+  "sha256": "882c8b4f591ac5c68f33c19a688befed84da0781a8275fe13a2a5b139cd81b46",
+  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.6.plist"
 }
