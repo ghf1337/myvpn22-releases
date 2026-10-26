@@ -1,8 +1,8 @@
 {
-  "version": "0.7.7",
-  "notes": "Исправлен случайный выход из аккаунта: параллельные запросы больше не сбрасывают сессию при обновлении токена.",
-  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.7/MyVPN22-0.7.7.ipa",
-  "size": 15718152,
-  "sha256": "9e9795eeb645ff82c618c8aa19ee88c3fd2f2bd10bfa66b2211565f41af4de6d",
-  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.7.plist"
+  "version": "0.7.8",
+  "notes": "Стабильность на LTE: проверка живости gRPC-соединения и сторож тихих обрывов — если трафик уходит, а ответа нет ~12 с, связь проверяется и ядро перезапускается.",
+  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.8/MyVPN22-0.7.8.ipa",
+  "size": 15722491,
+  "sha256": "a39f8cbfd8309bac22ae5635030844f1bcf3e32b93f82e0fcbcce19829980b74",
+  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.8.plist"
 }

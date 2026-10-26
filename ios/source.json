@@ -10,18 +10,18 @@
       "subtitle": "VPN только для подписки MyVPN22",
       "localizedDescription": "Подключение к серверам MyVPN22: вход через Telegram или email, выбор страны, поддержка.",
       "iconURL": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/icon.png",
-      "version": "0.7.7",
+      "version": "0.7.8",
       "versionDate": "2026-10-26",
-      "versionDescription": "Исправлен случайный выход из аккаунта: параллельные запросы больше не сбрасывают сессию при обновлении токена.",
-      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.7/MyVPN22-0.7.7.ipa",
-      "size": 15718152,
+      "versionDescription": "Стабильность на LTE: проверка живости gRPC-соединения и сторож тихих обрывов — если трафик уходит, а ответа нет ~12 с, связь проверяется и ядро перезапускается.",
+      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.8/MyVPN22-0.7.8.ipa",
+      "size": 15722491,
       "versions": [
         {
-          "version": "0.7.7",
+          "version": "0.7.8",
           "date": "2026-10-26",
-          "localizedDescription": "Исправлен случайный выход из аккаунта: параллельные запросы больше не сбрасывают сессию при обновлении токена.",
-          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.7/MyVPN22-0.7.7.ipa",
-          "size": 15718152
+          "localizedDescription": "Стабильность на LTE: проверка живости gRPC-соединения и сторож тихих обрывов — если трафик уходит, а ответа нет ~12 с, связь проверяется и ядро перезапускается.",
+          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.8/MyVPN22-0.7.8.ipa",
+          "size": 15722491
         }
       ]
     }
