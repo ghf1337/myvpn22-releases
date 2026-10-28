@@ -10,18 +10,18 @@
       "subtitle": "VPN только для подписки MyVPN22",
       "localizedDescription": "Подключение к серверам MyVPN22: вход через Telegram или email, выбор страны, поддержка.",
       "iconURL": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/icon.png",
-      "version": "0.7.9",
+      "version": "0.8.0",
       "versionDate": "2026-10-28",
-      "versionDescription": "Подписка загружается с нового адреса сервера s.myvpn22.top.",
-      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.9/MyVPN22-0.7.9.ipa",
-      "size": 15722476,
+      "versionDescription": "Исправлена ошибка «Ссылка подписки не прошла проверку». Подписка загружается с s.myvpn22.top, при сбое — с запасного адреса.",
+      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.8.0/MyVPN22-0.8.0.ipa",
+      "size": 15723213,
       "versions": [
         {
-          "version": "0.7.9",
+          "version": "0.8.0",
           "date": "2026-10-28",
-          "localizedDescription": "Подписка загружается с нового адреса сервера s.myvpn22.top.",
-          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.9/MyVPN22-0.7.9.ipa",
-          "size": 15722476
+          "localizedDescription": "Исправлена ошибка «Ссылка подписки не прошла проверку». Подписка загружается с s.myvpn22.top, при сбое — с запасного адреса.",
+          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.8.0/MyVPN22-0.8.0.ipa",
+          "size": 15723213
         }
       ]
     }
