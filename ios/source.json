@@ -10,18 +10,18 @@
       "subtitle": "VPN только для подписки MyVPN22",
       "localizedDescription": "Подключение к серверам MyVPN22: вход через Telegram или email, выбор страны, поддержка.",
       "iconURL": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/icon.png",
-      "version": "0.7.8",
-      "versionDate": "2026-10-26",
-      "versionDescription": "Стабильность на LTE: проверка живости gRPC-соединения и сторож тихих обрывов — если трафик уходит, а ответа нет ~12 с, связь проверяется и ядро перезапускается.",
-      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.8/MyVPN22-0.7.8.ipa",
-      "size": 15722491,
+      "version": "0.7.9",
+      "versionDate": "2026-10-28",
+      "versionDescription": "Подписка загружается с нового адреса сервера s.myvpn22.top.",
+      "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.9/MyVPN22-0.7.9.ipa",
+      "size": 15722476,
       "versions": [
         {
-          "version": "0.7.8",
-          "date": "2026-10-26",
-          "localizedDescription": "Стабильность на LTE: проверка живости gRPC-соединения и сторож тихих обрывов — если трафик уходит, а ответа нет ~12 с, связь проверяется и ядро перезапускается.",
-          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.8/MyVPN22-0.7.8.ipa",
-          "size": 15722491
+          "version": "0.7.9",
+          "date": "2026-10-28",
+          "localizedDescription": "Подписка загружается с нового адреса сервера s.myvpn22.top.",
+          "downloadURL": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.9/MyVPN22-0.7.9.ipa",
+          "size": 15722476
         }
       ]
     }

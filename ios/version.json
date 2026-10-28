@@ -1,8 +1,8 @@
 {
-  "version": "0.7.8",
-  "notes": "Стабильность на LTE: проверка живости gRPC-соединения и сторож тихих обрывов — если трафик уходит, а ответа нет ~12 с, связь проверяется и ядро перезапускается.",
-  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.8/MyVPN22-0.7.8.ipa",
-  "size": 15722491,
-  "sha256": "a39f8cbfd8309bac22ae5635030844f1bcf3e32b93f82e0fcbcce19829980b74",
-  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.8.plist"
+  "version": "0.7.9",
+  "notes": "Подписка загружается с нового адреса сервера s.myvpn22.top.",
+  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.7.9/MyVPN22-0.7.9.ipa",
+  "size": 15722476,
+  "sha256": "97657c936e7e87ce24c36630d36de196150981a59255a354ae1e6d8bd93d2784",
+  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.7.9.plist"
 }
