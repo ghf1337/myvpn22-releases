@@ -1,8 +1,8 @@
 {
-  "version": "0.8.0",
-  "notes": "Исправлена ошибка «Ссылка подписки не прошла проверку». Подписка загружается с s.myvpn22.top, при сбое — с запасного адреса.",
-  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.8.0/MyVPN22-0.8.0.ipa",
-  "size": 15723213,
-  "sha256": "51b4a7a6f2602240f67031dc38f587636905e3e144ee21053b86c8619218ef0f",
-  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.8.0.plist"
+  "version": "0.8.2",
+  "notes": "Подключение по ссылке MyVPN22 без входа. Российские домены и локальные сети идут напрямую с устройства.",
+  "url": "https://github.com/ghf1337/myvpn22-releases/releases/download/ios-v0.8.2/MyVPN22-0.8.2.ipa",
+  "size": 15754112,
+  "sha256": "8956dfbf326d3c0c042c05423af118f9e1fb3a92c4a04e1c4932f9eea300d66d",
+  "manifest": "https://raw.githubusercontent.com/ghf1337/myvpn22-releases/main/ios/manifest-0.8.2.plist"
 }
